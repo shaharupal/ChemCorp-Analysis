@@ -19,3 +19,5 @@ Strategic Recommendations:
 Market Differentiation:
     -  Develop a unique value proposition to stand out in a crowded market.
     -  Explore niche markets or underserved customer segments to expand ChemCorp's reach.
+
+https://public.tableau.com/views/ChemicalCorpSalesAnalysis/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
